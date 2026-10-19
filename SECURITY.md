@@ -6,7 +6,7 @@ This repository documents a coordinated security disclosure for Frappe Framework
 
 If you are the vendor or a CNA and need the full proof-of-concept, contact:
 
-- Joan David (JdExploit) — tdavidtorres097@gmail.com
+- Joan David (JdExploit) — tjoan9067@gmail.com
 
 The executable PoC is shared privately with the vendor and the CNA and is intentionally not
 published here.
