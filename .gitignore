@@ -1,0 +1,7 @@
+# Puedes añadir aquí las capturas de la verificación y el PoC privado.
+# El PoC NO debe publicarse en el repo público.
+poc_auto_repeat_ssti.py
+test_auto_repeat_ssti.py
+_SETUP_VALIDACION.md
+*.log
+__pycache__/
